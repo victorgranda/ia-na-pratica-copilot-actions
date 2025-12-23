@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/victorgranda/ia-na-pratica-copilot-actions/actions/workflows/nodejs.yml/badge.svg)
+
 IA na prática: Acelerando o desenvolvimento e garantindo a qualidade com um fluxo de trabalho automatizado por IA
 
 #Introdução
