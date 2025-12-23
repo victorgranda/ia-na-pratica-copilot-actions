@@ -1,0 +1,12 @@
+{
+  "name": "ia-na-pratica",
+  "version": "1.0.0",
+  "description": "Projeto exemplo usando GitHub Copilot e GitHub Actions",
+  "main": "src/order.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
